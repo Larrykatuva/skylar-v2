@@ -1826,4 +1826,11 @@ section {
 .contact-us-link {
   font-weight: bold;
   width: 100% !important;
+  border-color:#353A5C;
+  color: #353A5C;
+}
+
+.contact-us-link:hover {
+  background-color: #353A5C;
+  color: #ffffff;
 }
