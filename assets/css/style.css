@@ -1825,4 +1825,5 @@ section {
 
 .contact-us-link {
   font-weight: bold;
+  width: 100% !important;
 }
